@@ -1,1 +1,7 @@
-
+site_name: Reality Codex
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Core Topics:
+      - Bose-Einstein Condensate: bose-einstein-condensate.md
