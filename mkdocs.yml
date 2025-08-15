@@ -1,1 +1,38 @@
 
+site_name: Reality Codex
+site_description: Local Informational Universe Hypothesis knowledge web
+repo_url: https://github.com/<YOUR_USERNAME>/Reality-Codex
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - content.code.annotate
+    - toc.integrate
+  palette:
+    - scheme: slate
+nav:
+  - Home: index.md
+  - Core Topics:
+      - Hilbert Rendering Zone: hilbert-rendering-zone.md
+      - Informational Substrate: informational-substrate.md
+      - Quasi-crystalline Structure: quasicrystalline-structure.md
+      - Bose–Einstein Condensate: bose-einstein-condensate.md
+      - Informational Collapse Hierarchy: informational-collapse-hierarchy.md
+      - Entanglement: entanglement.md
+      - Wave Function Collapse: wave-function-collapse.md
+      - Reductionist Point of View: reductionist-point-of-view.md
+      - Nested HRZ Model: nested-hrz-model.md
+      - Codex Interaction Models: codex-interaction-models.md
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+plugins:
+  - search
