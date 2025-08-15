@@ -2,6 +2,9 @@ site_name: Reality Codex
 theme:
   name: material
 nav:
+nav:
   - Home: index.md
   - Core Topics:
-      - Bose-Einstein Condensate: bose-einstein-condensate.md
+      - Bose-Einstein Condensate:
+          - Overview: bose-einstein-condensate.md
+          - Standard Physics: bose-einstein-condensate-standard-physics.md
