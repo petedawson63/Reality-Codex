@@ -16,6 +16,7 @@ Links between concepts, ancient philosophies, and modern theories.
 
 A structured knowledge base you can query and explore.
 
+[View the Glossary](glossary.md)
 
 How to Use
 
