@@ -27,3 +27,13 @@ In the Local Informational Universe Hypothesis, entanglement is viewed as eviden
 
 ## 6. Extended Interpretation in LIUH
 Entanglement in LIUH is not a fragile link but a natural property of coherent informational structures. Measurement is seen as a phase-alignment event between the observer’s HRZ and the shared informational state in the substrate. This removes the need for a superluminal explanation — the “instantaneity” is simply the HRZ accessing a single data record that exists outside conventional spacetime.
+
+## 7. Reductionist vs Holistic Views
+
+From a strict reductionist perspective, entanglement is treated as a peculiar quantum correlation that can be isolated and analysed mathematically. This viewpoint often abstracts entanglement from the wider system it emerges from, focusing only on the statistical predictions of quantum mechanics. While effective for narrow calculations, this approach risks removing entanglement from its broader context, leading to interpretations that may seem counterintuitive or incomplete.
+
+The holistic view, which aligns more closely with the Local Informational Universe Hypothesis, places entanglement within a larger framework of coherent system behaviour. Here, the phenomenon is seen as one manifestation of a deeper network of informational relationships. Rather than existing in isolation, each entangled pair is part of a web of connections that can span multiple scales — from subatomic particles to macroscopic systems and even biological networks.
+
+## 8. Feedback Loops and Stability
+
+In LIUH, entanglement is linked to recursive feedback loops between the Hilbert Rendering Zone and the substrate. These loops maintain the stability of correlations over time and distance. When the HRZ accesses an entangled state, the informational coherence is reinforced rather than degraded, provided no decoherence events occur. This allows entanglement to persist far longer than classical intuition
