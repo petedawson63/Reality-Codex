@@ -1,7 +1,7 @@
 
 site_name: Reality Codex
 site_description: Local Informational Universe Hypothesis knowledge web
-repo_url: https://github.com/<YOUR_USERNAME>/Reality-Codex
+repo_url: https://github.com/petedawson63/Reality-Codex
 theme:
   name: material
   features:
